@@ -16,7 +16,7 @@ body {
     padding: 0;
 }
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("img/1iejvaig.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -51,7 +51,7 @@ body {
 
 .container__titulo {
     font-size: 28px;
-    font-weight: 700;
+    font-weight: 100;
 }
 
 .container__imagem {
@@ -75,7 +75,7 @@ body {
     font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
-    margin-bottom: 0.1em;
+    margin-bottom: 2em;
 }
 
 .descricao__texto {
